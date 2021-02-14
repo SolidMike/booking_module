@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>cottages</name>
+    <title>Коттеджи</title>
+    <sub_menu></sub_menu>
+    <description>Модуль позволяет создавать и управлять содержимым сайта.</description>
+    <in_menu>1</in_menu>
+    <icon>file</icon>
+    <type></type>
+    <author>SOlidMike</author>
+    <version>1.0</version>
+</module>
